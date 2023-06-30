@@ -1,0 +1,7 @@
+{
+  "name": "gameone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
